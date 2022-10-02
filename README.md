@@ -1,4 +1,4 @@
-# Computer-Organization-And-Assembly-Language
+# Project Name= Computer-Organization-And-Assembly-Language
 
 # Objective;
  The prime objective of building a calculator in assembly language is to perform a number of calculations in response to user supplied input. This project work also focused principally on numbers and arithmetic operation. To determine and understand the current procedures employed in computer with regard to the calculator. To design a simple calculator that ensure timely processing, To reduce the problems immensely and provides a release working environment.
